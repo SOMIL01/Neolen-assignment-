@@ -1,6 +1,6 @@
 # Neolen-assignment-
 
-The path of the text file has to be replaced in the third cell of the nootebook 
+*The path of the text file has to be replaced in the third cell of the nootebook*
 
 Brief Description about the assignment :
 1. I used langchain to create the AI agent and used Open AI's embeddings and LLM (large language model )
